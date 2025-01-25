@@ -1,15 +1,15 @@
 # 🧪🔬 Balanceur d'Équations Chimiques : La Magie de la Stoechiométrie en Python 🐍✨
 
 **Par Madsen Servius**  
-*Un projet qui donne vie à la chimie avec du code, des algorithmes et un peu de magie numérique !*
+*Un projet qui donne vie à la chimie avec du code et des algorithmes !*
 
 ---
 
 ## 🌟 **Pourquoi ce Projet est Génial ?**
 
-Imaginez un monde où équilibrer des équations chimiques complexes devient aussi simple qu'un clic. Ce projet rend cela possible !  
+Imaginez un monde où équilibrer des équations chimiques complexes devient simple. 
 🔥 **Défis relevés** : Analyse lexicale, parsing AST, gestion des groupes polyatomiques, et équilibrage stoechiométrique.  
-🚀 **Pour les chimistes, les étudiants et les curieux** : Comprendre la chimie n'a jamais été aussi interactif !
+🚀 **Pour les chimistes, les étudiants et les curieux** 
 
 ---
 
